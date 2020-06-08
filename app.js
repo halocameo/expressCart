@@ -1,3 +1,5 @@
+require('newrelic')
+
 const fs = require('fs');
 const yenv = require('yenv');
 if(fs.existsSync('./env.yaml')){

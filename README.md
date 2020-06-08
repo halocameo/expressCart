@@ -1,6 +1,6 @@
 # expressCart
 
-![expressCart](https://raw.githubusercontent.com/mrvautin/expressCart/master/public/images/logo.png)
+![expressCart](https://raw.githubusercontent.com/halocameo/expressCart/master/public/images/logo.png)
 
 `expressCart` is a fully functional shopping cart built in Node.js (Express, MongoDB) with built in popular payment providers.
 
@@ -13,7 +13,7 @@ Payment providers included:
 - [PayWay](https://www.payway.com.au/)
 - Instore
 
-[![Github stars](https://img.shields.io/github/stars/mrvautin/expressCart.svg?style=social&label=Star)](https://github.com/mrvautin/expressCart)
+[![Github stars](https://img.shields.io/github/stars/halocameo/expressCart.svg?style=social&label=Star)](https://github.com/halocameo/expressCart)
 
 [![Actions Status](https://github.com/mrvautin/expressCart/workflows/expressCart-tests/badge.svg)](https://github.com/mrvautin/expressCart/actions)
 
@@ -65,7 +65,7 @@ The easiest way to get up and running is using Docker. Once the Docker CLI is in
 
 ### Deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrvautin/expressCart)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/halocameo/expressCart)
 
 > Note: When deploying to Heroku you will need to configure your external MongoDB either on your own server or a hosted service on mLab, AWS etc.
 
